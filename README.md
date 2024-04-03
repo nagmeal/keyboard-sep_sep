@@ -16,3 +16,17 @@
   - シンボル、フットプリント
 - https://github.com/daprice/keyswitches.pretty
   - フットプリント
+
+
+
+
+
+### TODO
+
+- ケース
+  - ３Dデザイン作る
+  - 発注する
+- ファームウェア
+  - QMK環境構築
+  - 作成
+- 
