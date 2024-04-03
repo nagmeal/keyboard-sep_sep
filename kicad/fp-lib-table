@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "E:/projects/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "E:/projects/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "E:/projects/keyswitches.pretty")(options "")(descr ""))
+)
