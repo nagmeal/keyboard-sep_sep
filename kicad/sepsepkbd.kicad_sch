@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "sep/sep keyboard")
-		(rev "1.00")
+		(rev "1.01")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Socket"
@@ -5052,7 +5052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b44259f-4707-45f0-8fc8-f757025c52c1")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 224.4725 59.055 0)
 			(effects
 				(font
@@ -5110,7 +5110,7 @@
 		(instances
 			(project "sepsepkbd"
 				(path "/eb7c7458-55fc-48e8-93c5-5460ac0da007"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -5714,7 +5714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 87.63 72.39 0)
 			(effects
 				(font
@@ -5924,7 +5924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b7c342d-c80d-4b16-b3d7-5d06b83e8ea5")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 88.265 81.28 0)
 			(effects
 				(font
@@ -5940,7 +5940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 87.63 91.44 0)
 			(effects
 				(font
@@ -5982,7 +5982,7 @@
 		(instances
 			(project "sepsepkbd"
 				(path "/eb7c7458-55fc-48e8-93c5-5460ac0da007"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)

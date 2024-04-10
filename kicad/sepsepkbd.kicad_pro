@@ -482,7 +482,7 @@
       "plot": "output/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sepsepkbd.step",
       "svg": "",
       "vrml": ""
     },
