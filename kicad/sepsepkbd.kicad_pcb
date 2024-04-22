@@ -3416,7 +3416,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D16"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e55c810d-fccc-425a-bfcc-95bfdf23b0c7")
@@ -3428,7 +3428,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb2fb72b-7164-415a-82c6-7b24e8145ab2")
@@ -3721,7 +3721,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D4"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c177afd-ce87-49c5-b6c1-d889c4f703e2")
@@ -3733,7 +3733,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a174ed4a-5bd1-4c12-baeb-7ba59fc89bbc")
@@ -6641,7 +6641,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D10"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69f64b98-5454-44c0-bc90-b891ba7d8116")
@@ -6653,7 +6653,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e12b59dc-f563-4c06-b62c-131356c27fb7")
@@ -6946,7 +6946,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D5"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "47353c48-7851-4abc-b4a6-510254f3e484")
@@ -6958,7 +6958,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cab9ccae-b226-452e-8e73-56865a711afa")
@@ -7755,7 +7755,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D7"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "05b59a65-bd25-401c-b6fc-f02764abe783")
@@ -7767,7 +7767,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a4bd11b0-d79e-48aa-9cb5-a549e264abed")
@@ -8365,7 +8365,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D2"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "461ad79a-a262-4ef5-88da-5754ace773a3")
@@ -8377,7 +8377,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "52b419d6-fbd9-4489-842c-a01d47c54ccc")
@@ -8670,7 +8670,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D11"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73bcc485-f697-4162-b879-c4de78b719b6")
@@ -8682,7 +8682,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79404181-b03a-4d72-9a19-24ab8d9f767a")
@@ -9479,7 +9479,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D6"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee5db263-d885-4cfb-afcc-a1d1d71f48c9")
@@ -9491,7 +9491,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4cbb0b33-f58a-4281-aa1e-46c93c12d7d2")
@@ -9784,7 +9784,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D3"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a5434053-8180-4761-af16-5746083bcb2a")
@@ -9796,7 +9796,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d2a57262-b611-4c5a-bf5b-b69474394f16")
@@ -10089,7 +10089,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D12"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee9a5f87-9122-4bc3-9806-90bff8b16df2")
@@ -10101,7 +10101,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "70af2ceb-708a-4cd7-8d92-dc4dc8c65200")
@@ -11414,7 +11414,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D18"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13ec1c5d-4e79-41c9-9a19-61e1f8daf671")
@@ -11426,7 +11426,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c643b05d-af67-438a-8489-788eb59c3297")
@@ -12223,7 +12223,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D1"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2671f447-69ff-41c8-8627-14497dd45cee")
@@ -12235,7 +12235,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29840b84-bd63-445e-aa39-6fa604968aaf")
@@ -13548,7 +13548,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D13"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08e538cd-b174-44e4-af45-aa6a9011c0ae")
@@ -13560,7 +13560,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "417ac6ec-4c0b-4f7c-80cd-f49e5a372c6b")
@@ -15689,7 +15689,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D14"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c2e8813b-aa61-4bb8-b5f7-9e78fd14513d")
@@ -15701,7 +15701,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff80ea77-3803-4730-82e8-2aba18ed1a7c")
@@ -15994,7 +15994,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D15"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca7474d5-cf16-442d-a821-726204a03df0")
@@ -16006,7 +16006,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fcceadd3-4fad-4b10-894a-0cbb60a26a4f")
@@ -16299,7 +16299,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D17"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6d313dd-0ae9-4e5d-a01b-2a130a69f74d")
@@ -16311,7 +16311,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "112fa7b7-eaf4-4f3d-94b4-ef376245b9be")
@@ -16604,7 +16604,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D9"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f16ed118-c07f-458c-b935-6310eaf7492b")
@@ -16616,7 +16616,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80a1dfe8-15d3-42db-b625-3fe1fe1107c1")
@@ -16909,7 +16909,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D8"
-			(at 0.5 0 270)
+			(at 0.5 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "81f3f061-2123-4563-932c-c3c60e1a1331")
@@ -16921,7 +16921,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at -0.6 0 270)
+			(at -0.6 0 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62f17923-ab7b-480f-b002-e6249d323c56")
@@ -21291,6 +21291,72 @@
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
+		(uuid "0fa9437d-5e1f-46ec-9555-55ae639545c2")
+		(pts
+			(xy 28.327818 37.018432) (xy 28.277818 96.868432)
+		)
+		(height 9.017805)
+		(gr_text "59.8500 mm"
+			(at 18.135016 66.934937 89.95213386)
+			(layer "Cmts.User")
+			(uuid "0fa9437d-5e1f-46ec-9555-55ae639545c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "0faee598-c79c-4728-8f9b-b352eeef6211")
+		(pts
+			(xy 199.245754 147.995007) (xy 27.277818 95.868432)
+		)
+		(height -12.462212)
+		(gr_text "179.6946 mm"
+			(at 109.980292 132.757519 -16.86300047)
+			(layer "Cmts.User")
+			(uuid "0faee598-c79c-4728-8f9b-b352eeef6211")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
 		(uuid "1e527b13-7783-4d25-a24e-dd0f928b108e")
 		(pts
 			(xy 146.813786 96.906542) (xy 27.2 96.9)
@@ -21423,6 +21489,39 @@
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
+		(uuid "85cea5c1-b475-455e-91f1-a1ca4794a29e")
+		(pts
+			(xy 178.9 38.025539) (xy 147.3 37.9)
+		)
+		(height 4.578069)
+		(gr_text "31.6002 mm"
+			(at 163.122756 32.234745 -0.227622605)
+			(layer "Cmts.User")
+			(uuid "85cea5c1-b475-455e-91f1-a1ca4794a29e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
 		(uuid "a2e96ede-897d-4e4f-b22e-a9bf58d1cf93")
 		(pts
 			(xy 27.2 37) (xy 230.8 37)
@@ -21432,6 +21531,39 @@
 			(at 129 27.45 0)
 			(layer "Cmts.User")
 			(uuid "a2e96ede-897d-4e4f-b22e-a9bf58d1cf93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "a76a81ea-b8bc-47a8-aab3-a49df85933e7")
+		(pts
+			(xy 156.3 106.5) (xy 146.813786 96.906542)
+		)
+		(height -7.257512)
+		(gr_text "13.4916 mm"
+			(at 147.214024 105.997592 -45.32204767)
+			(layer "Cmts.User")
+			(uuid "a76a81ea-b8bc-47a8-aab3-a49df85933e7")
 			(effects
 				(font
 					(size 1 1)
@@ -21498,6 +21630,39 @@
 			(at 183.702166 50.899113 -89.96613429)
 			(layer "Cmts.User")
 			(uuid "dfd785d2-e452-4669-b6fd-b907567092d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "f4e4782d-fd42-442b-9d22-e1c7e808b38f")
+		(pts
+			(xy 160.118592 82.721463) (xy 146.3 96.9)
+		)
+		(height 3.030729)
+		(gr_text "19.7986 mm"
+			(at 150.215315 86.892758 45.73658445)
+			(layer "Cmts.User")
+			(uuid "f4e4782d-fd42-442b-9d22-e1c7e808b38f")
 			(effects
 				(font
 					(size 1 1)
