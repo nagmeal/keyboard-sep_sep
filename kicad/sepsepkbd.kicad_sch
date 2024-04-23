@@ -5,8 +5,8 @@
 	(uuid "eb7c7458-55fc-48e8-93c5-5460ac0da007")
 	(paper "A4")
 	(title_block
-		(title "sep/sep keyboard")
-		(rev "1.01")
+		(title "now thinking")
+		(rev "2.00")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Socket"
