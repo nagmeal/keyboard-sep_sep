@@ -1,6 +1,6 @@
 # keyboard-sep_sep
 
-狭いピッチのキーボードに慣れる事ができない奴が作ったキーボードです
+狭いピッチのキーボードに慣れる事ができない奴が作ってるキーボードです
 
 
 
@@ -16,6 +16,9 @@
   - シンボル、フットプリント
 - https://github.com/daprice/keyswitches.pretty
   - フットプリント
+- https://github.com/is-watering/isw-kbd-lib
+  - シンボル、フットプリント
+
 
 
 
