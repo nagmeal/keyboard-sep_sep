@@ -9491,7 +9491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:ResetSW"
+		(property "Footprint" "keyswitches:Kailh_socket_PG1350_reversible"
 			(at 219.71 69.85 0)
 			(effects
 				(font
