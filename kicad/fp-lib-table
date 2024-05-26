@@ -4,4 +4,5 @@
   (lib (name "kbd")(type "KiCad")(uri "E:/projects/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "E:/projects/keyswitches.pretty")(options "")(descr ""))
   (lib (name "isw-kbd")(type "KiCad")(uri "E:/projects/isw-kbd-lib/isw-kbd.pretty")(options "")(descr ""))
+  (lib (name "sepsepkbd")(type "KiCad")(uri "E:/projects/sep-sep-kbd/sepsepkbd.pretty")(options "")(descr ""))
 )

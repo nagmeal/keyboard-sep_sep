@@ -1,0 +1,138 @@
+(footprint "4FingerBoard_logo"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4d208546-01ef-4c32-93df-f9e4efbf8af2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "4FingerBoard_logo"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ea809902-6e74-49f2-a26a-4ecf2c4ad14d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "596e03e0-5246-43ae-8b43-1ff790583f93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2207f4f4-92e7-4a3e-a85b-6d19c26167fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2dc89cc1-0728-4d03-94a4-80f1c6299ce3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "Yubino Hara"
+		(at 9.65 -2.175 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "7b4b8f30-47b2-4fad-bbd6-4ae378eb90a6")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "MIGI\nYON-HON\nYUBI"
+		(at 0.15 9.725 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "c76c6727-b898-4b75-8a26-9a88435a647b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(fp_text user "Yubino Hara"
+		(at -8.45 -2.2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "58620e65-f5ea-4aff-a074-8154572a909e")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "HIDARI\nYON-HON\nYUBI"
+		(at 0.15 9.725 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6e9a436b-8f1c-4872-8d22-4d736c37523d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f2e538c7-9559-4e56-897d-2da7257ecab0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
