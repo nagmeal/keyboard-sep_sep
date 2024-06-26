@@ -5688,7 +5688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
+		(property "Footprint" "sepsepkbd:PinHeader_1x10_P2.54mm_Vertical"
 			(at 57.15 83.82 0)
 			(effects
 				(font
@@ -6447,7 +6447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "sepsepkbd:PinHeader_1x03_P2.54mm_Vertical"
 			(at 30.48 119.38 0)
 			(effects
 				(font
