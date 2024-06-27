@@ -190,7 +190,7 @@ Yubino Haraは表面実装でRP2040を取り付けます。
 
 位置がわかりにくいですが、概ねこのぐらいの見え方の位置につけると安定します。
 
-　<img src="E:\projects\sep-sep-kbd\yubino-hara\docs\photos\5_rp2040.jpg" style="zoom:10%;" />
+　<img src="photos\5_rp2040.jpg" style="zoom:10%;" />
 
 
 
