@@ -42,7 +42,7 @@
 
 基板は左右共通ですので、まずは図のように並べて左右が入れ替わらないようご注意ください。
 
-![PCB](photos\1_board.jpg)
+![PCB](photos/1_board.jpg)
 
 
 
@@ -60,11 +60,11 @@
 
 端っこに白い線｜があります。この線を↓
 
-　<img src="photos\1_smd_diord.jpg" alt="diode" style="zoom:10%;" />
+　<img src="photos/1_smd_diord.jpg" alt="diode" style="zoom:10%;" />
 
 →基板上のダイオードのマークの▷|の線に合わせるようにはんだ付けしてください。
 
-　<img src="photos\1_diode_silk.jpg" style="zoom:100%;" />
+　<img src="photos/1_diode_silk.jpg" style="zoom:100%;" />
 
 
 
@@ -84,11 +84,11 @@ PCBソケットにもダイオードと同じように向きがあります
 
 左側は丸く、右側は四角くなってます
 
-　<img src="photos\1_pcb_socket.jpg" style="zoom:10%;" />
+　<img src="photos/1_pcb_socket.jpg" style="zoom:10%;" />
 
 丸い方と四角い方を、基板のマークに合わせてはんだ付けしてください
 
-　<img src="photos\1_pcb_socket_silk.jpg" style="zoom:50%;" />
+　<img src="photos/1_pcb_socket_silk.jpg" style="zoom:50%;" />
 
 
 
@@ -100,13 +100,13 @@ PCBソケットにもダイオードと同じように向きがあります
 
 四本指
 
-　<img src="photos\2_1_diode_and_socket_ff.jpg" alt="四本指基板" style="zoom: 10%;" />
+　<img src="photos/2_1_diode_and_socket_ff.jpg" alt="四本指基板" style="zoom: 10%;" />
 
 
 
 親指
 
-　<img src="photos\2_2_diode_and_socket_th.jpg" alt="親指基板" style="zoom:10%;" />
+　<img src="photos/2_2_diode_and_socket_th.jpg" alt="親指基板" style="zoom:10%;" />
 
 
 
@@ -124,7 +124,7 @@ LEDは裏面からはんだ付けをして、表面に向ける必要があり�
 
 左下に見える直角のところに、足のかけた部分が向くようにはんだ付けしてください
 
-　<img src="photos\2_3_LED_silk.jpg" />
+　<img src="photos/2_3_LED_silk.jpg" />
 
 
 
@@ -154,7 +154,7 @@ LEDをつけおわった図
 
 取り付け後の図（表面）
 
-<img src="photos\4_1_pin_header.jpg" style="zoom:10%;" />
+<img src="photos/4_1_pin_header.jpg" style="zoom:10%;" />
 
 
 
@@ -166,13 +166,13 @@ LEDをつけおわった図
 
 このとき四本指基板が傾きますが、そのままで問題ありません。
 
-<img src="photos\4_3_pin_socket.jpg" style="zoom:10%;" />
+<img src="photos/4_3_pin_socket.jpg" style="zoom:10%;" />
 
 
 
 横から見ると、このように傾いてます
 
-<img src="photos\4_2_pin_socket_set.jpg" style="zoom:10%;" />
+<img src="photos/4_2_pin_socket_set.jpg" style="zoom:10%;" />
 
 
 
@@ -190,7 +190,7 @@ Yubino Haraは表面実装でRP2040を取り付けます。
 
 位置がわかりにくいですが、概ねこのぐらいの見え方の位置につけると安定します。
 
-　<img src="photos\5_rp2040.jpg" style="zoom:10%;" />
+　<img src="photos/5_rp2040.jpg" style="zoom:10%;" />
 
 
 
@@ -250,4 +250,4 @@ PCBソケットのパットをピンセット等でショートさせるとキ�
 
 おおむね全体的にカバーできます。
 
-![](photos\cork.jpg)
+![](photos/cork.jpg)
