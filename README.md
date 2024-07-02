@@ -2,7 +2,7 @@
 
 
 
-## Yubino Hara
+## [Yubino Hara](https://github.com/nagmeal/sep-sep-kbd/tree/main/yubino-hara)
 
 - 左右分割
 - 逆チルト（手前から奥に傾斜）
@@ -11,7 +11,7 @@
 
 
 
-![](E:\projects\sep-sep-kbd\yubino-hara\yubinohara.jpg)
+![ゆびのはら](yubino-hara\yubinohara.jpg)
 
 
 
