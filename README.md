@@ -1,16 +1,23 @@
-# keyboard-sprout-bird
-
-指の腹でタイピングする癖があり、このキーボードを設計しました。
+# 作ったキーボード
 
 
 
-教養の無い人間でもキーボードが作れるネット社会と、
+## Yubino Hara
 
-資料やライブラリを整えてくださった偉大なる先人に感謝
+- 左右分割
+- 逆チルト（手前から奥に傾斜）
+- シンメトリカルスタッガード
+- Remap、VIA対応***予定***
 
 
 
-### お借りしたライブラリ
+![](E:\projects\sep-sep-kbd\yubino-hara\yubinohara.jpg)
+
+
+
+
+
+### 参照・参考ライブラリ
 
 - https://github.com/foostan/kbd
   - シンボル、フットプリント
@@ -18,5 +25,4 @@
   - フットプリント
 - https://github.com/is-watering/isw-kbd-lib
   - シンボル、フットプリント
-
 
