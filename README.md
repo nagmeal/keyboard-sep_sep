@@ -11,7 +11,7 @@
 
 
 
-![ゆびのはら](yubino-hara\yubinohara.jpg)
+<img src="https://github.com/nagmeal/sep-sep-kbd/blob/main/yubino-hara/yubinohara.jpg" alt="ゆびのはら" />
 
 
 
