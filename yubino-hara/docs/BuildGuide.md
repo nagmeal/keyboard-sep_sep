@@ -202,7 +202,7 @@ https://github.com/nagmeal/sep-sep-kbd/blob/main/yubino-hara/firmware/yubino_har
 
 PCとキーボードをUSBケーブルで繋ぎます。
 
-PCに外付けドライブとして認識されるので、そのままそこに
+PCに外付けドライブとして認識されるので、そこに
 
 ダウンロードしたファームウェアをコピー＆ペーストしてください
 
