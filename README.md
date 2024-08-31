@@ -15,6 +15,12 @@
 
 
 
+### ファームウェアリポジトリ
+
+https://github.com/nagmeal/qmk_firmware
+
+
+
 
 
 ### 参照・参考ライブラリ
